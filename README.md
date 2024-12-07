@@ -1,1 +1,1 @@
-Student ADN:24-0883
+Student:24-0883
